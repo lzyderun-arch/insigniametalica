@@ -26,6 +26,7 @@ El archivo `Keyword_Stats_2026-06-18_at_19_39_02.csv` tiene 1240 filas. La mayor
 - Productos: una intención principal por página para evitar canibalización.
 - Recursos: guías prácticas para consultas long-tail y apoyo de enlaces internos.
 - Contacto: conversión B2B con campos pensados para cotización.
+- Legal: `privacy.html` y `terms.html` enlazadas desde el footer e incluidas en el sitemap para dar confianza básica antes de la cotización.
 
 ## SEO title, meta description y H1
 
@@ -44,3 +45,4 @@ El archivo `Keyword_Stats_2026-06-18_at_19_39_02.csv` tiene 1240 filas. La mayor
 - Frases completas con material e intención: `insignias metálicas personalizadas`, no solo `insignia`.
 - CTA claro: cotización, presupuesto, cantidad, acabado, cierre y empaque.
 - Contenido rastreable sin depender de JavaScript.
+- No inventar certificados, dirección fiscal ni entidad legal: esos datos deben venir de documentación comercial real.

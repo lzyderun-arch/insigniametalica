@@ -676,6 +676,19 @@ section {
   margin-top: 42px;
 }
 
+.article-body p,
+.article-body li {
+  color: var(--muted);
+}
+
+.legal-copy h2 {
+  margin-bottom: 12px;
+}
+
+.legal-copy p {
+  margin: 0 0 18px;
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
