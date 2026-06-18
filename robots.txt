@@ -1,4 +1,3 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-
-Sitemap: https://metal-badge.com/sitemap.xml
+Sitemap: https://insigniametalica.com/sitemap.xml
