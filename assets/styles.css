@@ -154,7 +154,7 @@ figure {
   inset: 0;
   background:
     linear-gradient(90deg, rgba(251, 250, 247, 0.97) 0%, rgba(251, 250, 247, 0.82) 42%, rgba(251, 250, 247, 0.2) 72%),
-    url("hero-metal-crafts-v4.webp") center right / cover no-repeat;
+    url("hero-metal-crafts-clean.webp?v=20260618-clean1") center right / cover no-repeat;
   z-index: -2;
 }
 
@@ -781,7 +781,7 @@ section {
   .hero::before {
     background:
       linear-gradient(180deg, rgba(251, 250, 247, 0.98) 0%, rgba(251, 250, 247, 0.84) 46%, rgba(251, 250, 247, 0.25) 72%),
-      url("hero-metal-crafts-v4.webp") center bottom / cover no-repeat;
+      url("hero-metal-crafts-clean.webp?v=20260618-clean1") center bottom / cover no-repeat;
   }
 
   .hero-copy {
