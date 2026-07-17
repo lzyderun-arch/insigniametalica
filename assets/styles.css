@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --ink: #171717;
   --muted: #5d6269;
   --line: #dde1e7;
@@ -80,9 +80,9 @@ figure {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 18px;
+  gap: 14px;
   color: #33383f;
-  font-size: 0.94rem;
+  font-size: 0.92rem;
 }
 
 .nav-links a {
