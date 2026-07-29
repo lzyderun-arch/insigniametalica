@@ -808,3 +808,34 @@ section {
     overflow-x: auto;
   }
 }
+
+
+.quote-hero .hero-actions {
+  margin-top: 28px;
+}
+
+.quote-card h3 {
+  margin-top: 28px;
+}
+
+.quote-form h2 {
+  margin-bottom: 8px;
+}
+
+.form-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+@media (max-width: 760px) {
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}
