@@ -839,3 +839,36 @@ section {
     grid-template-columns: 1fr;
   }
 }
+
+
+.top-contact {
+  border-bottom: 1px solid rgba(221, 225, 231, 0.72);
+  background: rgba(255, 255, 255, 0.68);
+}
+
+.top-contact-inner {
+  width: min(var(--max), calc(100% - 32px));
+  min-height: 32px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 18px;
+  color: #3f454d;
+  font-size: 0.86rem;
+  font-weight: 680;
+}
+
+.top-contact a:hover {
+  color: #8a5d1f;
+}
+
+@media (max-width: 760px) {
+  .top-contact-inner {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    min-height: 38px;
+    font-size: 0.82rem;
+  }
+}
