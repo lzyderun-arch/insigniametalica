@@ -19,8 +19,8 @@ Sitio estático en español para `https://insigniametalica.com`, orientado a com
 
 - Nombre comercial: `Insignia Metálica`
 - Sitio web: `https://insigniametalica.com/`
-- Email: `lzyderun@gmail.com`
-- Teléfono / WhatsApp: `+86 13922851014`
+- Email: `chloe@aotomi.cn`
+- Teléfono / WhatsApp: `+86 19520704162`
 - Ubicación de fabricación: China
 
 La dirección legal completa, datos fiscales, certificaciones y documentos de proveedor deben confirmarse en la factura proforma o documentación formal de cada pedido. No se publican números de certificado ni auditoría sin documentos reales.
@@ -34,7 +34,7 @@ La dirección legal completa, datos fiscales, certificaciones y documentos de pr
 
 ## Formulario
 
-El formulario de contacto usa FormSubmit hacia `lzyderun@gmail.com` y redirige a `https://insigniametalica.com/thanks.html`. En el primer envío, FormSubmit puede pedir activar el correo receptor.
+El formulario de contacto usa FormSubmit hacia `chloe@aotomi.cn` y redirige a `https://insigniametalica.com/thanks.html`. En el primer envío, FormSubmit puede pedir activar el correo receptor.
 
 ## Notas de mantenimiento
 
