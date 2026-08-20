@@ -872,3 +872,28 @@ section {
     font-size: 0.82rem;
   }
 }
+
+/* Page-specific presentation for the company-pins landing page and cards on dark bands. */
+.grid.products.company-applications-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.band .article-card h3 {
+  color: var(--ink);
+}
+
+.band .article-card p {
+  color: var(--muted);
+}
+
+@media (max-width: 980px) {
+  .grid.products.company-applications-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .grid.products.company-applications-grid {
+    grid-template-columns: 1fr;
+  }
+}
