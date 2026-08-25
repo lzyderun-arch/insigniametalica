@@ -19,7 +19,7 @@ Sitio estático en español para `https://insigniametalica.com`, orientado a com
 
 - Nombre comercial: `Insignia Metálica`
 - Sitio web: `https://insigniametalica.com/`
-- Email: `chloe@aotomi.cn`
+- Email: `appleliao2022@gmail.com`
 - Teléfono / WhatsApp: `+86 19520704162`
 - Ubicación de fabricación: China
 
@@ -34,7 +34,7 @@ La dirección legal completa, datos fiscales, certificaciones y documentos de pr
 
 ## Formulario
 
-El formulario de contacto usa FormSubmit hacia `chloe@aotomi.cn` y redirige a `https://insigniametalica.com/thanks.html`. En el primer envío, FormSubmit puede pedir activar el correo receptor.
+El formulario de contacto usa FormSubmit hacia `appleliao2022@gmail.com` y redirige a `https://insigniametalica.com/thanks.html`. En el primer envío, FormSubmit puede pedir activar el correo receptor.
 
 ## Notas de mantenimiento
 
