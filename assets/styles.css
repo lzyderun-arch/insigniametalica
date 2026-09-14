@@ -706,6 +706,10 @@ section {
   justify-content: center;
 }
 
+.blog-feature-copy .btn {
+  align-self: flex-start;
+}
+
 .blog-secondary-grid {
   display: grid;
   gap: 20px;
