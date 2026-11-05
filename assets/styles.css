@@ -375,6 +375,16 @@ section {
   border-radius: 8px;
 }
 
+.table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-scroll .keyword-table {
+  min-width: 560px;
+}
+
 .keyword-table th,
 .keyword-table td {
   text-align: left;
